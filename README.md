@@ -1,0 +1,2 @@
+# Mytraining
+Java sample programs
