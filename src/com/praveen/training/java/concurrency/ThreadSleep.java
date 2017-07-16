@@ -1,5 +1,10 @@
 package com.praveen.training.java.concurrency;
 
+/**
+ * 
+ * @author Praveen Ravipati
+ * Sample example for sleep method
+ */
 public class ThreadSleep {
 
 	public static void main(String[] args) throws InterruptedException {
