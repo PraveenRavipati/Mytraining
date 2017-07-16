@@ -1,5 +1,13 @@
 package com.praveen.training.java.concurrency;
 
+/**
+ * 
+ * @author Praveen Ravipati
+ * 
+ * here when the runnable has implements, you observe that, you need to send the object as
+ *  parameter for the thread constructor
+ *
+ */
 public class HelloWordRunnable implements Runnable {
 
 	public static void main(String[] args) {
