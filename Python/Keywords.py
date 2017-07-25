@@ -26,3 +26,16 @@ print(x)
 
 print('------------------------------------------------')
 
+
+def isEven(a):
+	return a%2 == 0
+
+x = isEven(5)
+
+print(x)
+
+x = isEven(10)
+
+print(x) #this is even number
+
+#print "This is also a way"
